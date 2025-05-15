@@ -31,8 +31,8 @@ CREATE TABLE COMPRA (
 );
 
 
-O projeto deve estar localizao em uma subpasta dentro de htdocs do programa xampp.
+O projeto deve estar localizado em uma subpasta dentro de htdocs do programa xampp.
 Para acessar a pasta do xampp, basta clicar em "Explorer" no meu menu ao lado direito do programa, 
-ou acessa-la pelo caminho que você utilizaou na hora de instalação.
+ou acessa-la pelo caminho que você utilizou na hora da instalação.
 
 Para execução é necessário inserir o seguinte link em um browser que você utiliza: localhost/(Aqui a pasta que você criou dentro de htdocs)

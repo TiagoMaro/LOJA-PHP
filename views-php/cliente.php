@@ -34,6 +34,6 @@
     }
 ?>
 
-    <p><a href="index.html">Voltar para Home</a></p>
+    <p><a href="../index.html">Voltar para Home</a></p>
 </body>
 </html>

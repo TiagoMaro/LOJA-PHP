@@ -61,7 +61,6 @@
     }
   }
   ?>
-  <a href="index.html">Home </a>
-</body>
+  <p><a href="../index.html">Voltar para Home</a></p>
 
 </html>

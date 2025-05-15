@@ -43,6 +43,6 @@
             mysqli_query($mysqli, $insere) or die ("Impossivel inserir valores");
         }
 ?>
-<a href="index.html"> Home </a>
+<p><a href="../index.html">Voltar para Home</a></p>
 </body>
 </html>
